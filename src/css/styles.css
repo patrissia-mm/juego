@@ -1,0 +1,12 @@
+
+body{
+    background-color: black;
+    color:beige;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
